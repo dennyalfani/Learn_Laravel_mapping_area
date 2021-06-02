@@ -504,13 +504,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/post",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"post"
 							]
 						}
 					},
@@ -532,13 +532,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/2",
+							"raw": "{{host}}/api/post/2",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"post",
 								"2"
 							]
 						}
@@ -570,13 +570,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/post",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"post"
 							]
 						}
 					},
@@ -607,13 +607,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/post/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"post",
 								"6"
 							]
 						}
@@ -636,13 +636,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/post/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"post",
 								"6"
 							]
 						}
@@ -670,13 +670,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/map",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"map"
 							]
 						}
 					},
@@ -698,13 +698,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/2",
+							"raw": "{{host}}/api/map/2",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"map",
 								"2"
 							]
 						}
@@ -736,13 +736,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/map",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"map"
 							]
 						}
 					},
@@ -773,13 +773,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/map/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"map",
 								"6"
 							]
 						}
@@ -802,13 +802,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/map/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"map",
 								"6"
 							]
 						}
@@ -836,13 +836,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/district",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"district"
 							]
 						}
 					},
@@ -864,13 +864,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/2",
+							"raw": "{{host}}/api/district/2",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"district",
 								"2"
 							]
 						}
@@ -902,13 +902,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/district",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"district"
 							]
 						}
 					},
@@ -939,13 +939,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/district/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"district",
 								"6"
 							]
 						}
@@ -968,13 +968,13 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/district/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"district",
 								"6"
 							]
 						}
@@ -1002,13 +1002,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/direction",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"direction"
 							]
 						}
 					},
@@ -1030,13 +1030,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{host}}/api/report/2",
+							"raw": "{{host}}/api/direction/2",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"direction",
 								"2"
 							]
 						}
@@ -1068,13 +1068,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report",
+							"raw": "{{host}}/api/dirsction",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report"
+								"dirsction"
 							]
 						}
 					},
@@ -1105,13 +1105,13 @@
 							}
 						},
 						"url": {
-							"raw": "{{host}}/api/report/6",
+							"raw": "{{host}}/api/direction/6",
 							"host": [
 								"{{host}}"
 							],
 							"path": [
 								"api",
-								"report",
+								"direction",
 								"6"
 							]
 						}
